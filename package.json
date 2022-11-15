@@ -19,7 +19,9 @@
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",
     "rxjs": "~7.5.0",
+    "three": "^0.146.0",
     "tslib": "^2.3.0",
+    "ventura": "^1.19.1",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
