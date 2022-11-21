@@ -1,9 +1,9 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'curiculum',
-  templateUrl: './curiculum.component.html',
-  styleUrls: ['./curiculum.component.scss']
+  selector: 'curriculum',
+  templateUrl: './curriculum.component.html',
+  styleUrls: ['./curriculum.component.scss']
 })
 export class CuriculumComponent {
 }
