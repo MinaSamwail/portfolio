@@ -1,15 +1,21 @@
+.banner{
+    height: 80vh;
+}
 .container {
     h1, p {
         color: white;
     }
 } 
 
-ul{
+ul {
     list-style: none;
+
+    li:not(:last-child) {
+        padding-right: 15px;
+    }
     
     a {
         text-decoration: none;
         color: white;
-        padding-right: 10px;
     }
 }
