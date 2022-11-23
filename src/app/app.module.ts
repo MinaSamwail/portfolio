@@ -7,7 +7,7 @@ import { HomeComponent } from './front-page/components';
 import { BannerComponent } from './front-page/components/banner/banner.component';
 import { CurriculumComponent } from './front-page/components/curriculum/curriculum.component';
 import { AboutMeComponent } from './front-page/components/about-me/about-me.component';
-import { StudyProjectComponent } from './front-page/components/study-project/study-project.component';
+import { TimelineComponent } from './front-page/components/timeline/timeline.component';
 import { ContactComponent } from './front-page/components/contact/contact.component';
 
 @NgModule({
@@ -17,7 +17,7 @@ import { ContactComponent } from './front-page/components/contact/contact.compon
     BannerComponent,
     CurriculumComponent,
     AboutMeComponent,
-    StudyProjectComponent,
+    TimelineComponent,
     ContactComponent
   ],
   imports: [
