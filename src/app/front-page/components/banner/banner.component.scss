@@ -1,24 +1,18 @@
-.banner{
-    height: 80vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+.banner {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
+
 .container {
-    h1, p {
-        color: white;
-    }
-} 
 
-ul {
-    list-style: none;
+  h1,
+  p {
+    color: white;
+  }
+}
 
-    li:not(:last-child) {
-        padding-right: 15px;
-    }
-    
-    a {
-        text-decoration: none;
-        color: white;
-    }
+.fixed-top {
+  position: absolute;
 }
